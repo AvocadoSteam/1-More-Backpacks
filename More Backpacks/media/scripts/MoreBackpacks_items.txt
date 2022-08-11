@@ -1,6 +1,6 @@
 module MoreBackpacks {
 
-    imports {
+    requires {
         Base
     }
 

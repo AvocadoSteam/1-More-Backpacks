@@ -3,7 +3,7 @@ module Base
 		recipe Craft Hydration Backpack using Water Bottles
 	{
 			WaterBottleEmpty=2/WaterBottleFull=2,
-            HuntingBackpack,
+            MoreBackpacks.HuntingBackpack,
             Thread=2/Twine=2,
             keep Needle,
 			keep HuntingKnife/KitchenKnife,
