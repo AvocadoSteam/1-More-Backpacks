@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\backpacks\m_alice_pack</m_MaleModel>     <!-- The 3d models with animations -->
+	<m_FemaleModel>skinned\backpacks\f_alice_pack</m_FemaleModel> <!-- The 3d models with animations -->
+	<m_GUID>13c79c31-6ddf-4bbf-b88c-66d30ebe355f</m_GUID> <!-- A unique GUID for the clothingitem. See Step 3. -->
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>  <!-- No Tint  -->
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>alicepack_green</textureChoices>                        <!-- The texture that the model uses -->
+</clothingItem>

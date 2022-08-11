@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+    <files>
+		<path>media/clothing/clothingItems/HydrationBackpack.xml</path>
+		<guid>454183fe-f517-458f-bce2-538c9006d345</guid>
+    </files>
+
+    <files>
+		<path>media/clothing/clothingItems/SkaterBackpack.xml</path>
+		<guid>8b056c8f-566f-4147-bff5-2e69b3c6564d</guid>
+    </files>
+
+    <files>
+		<path>media/clothing/clothingItems/CompressionBackpack.xml</path>
+		<guid>13c79c31-6ddf-4bbf-b88c-66d30ebe355f</guid>
+    </files>
+
+    <files>
+		<path>media/clothing/clothingItems/HuntingBackpack.xml</path>
+		<guid>2ffed06f-9a40-4270-9c4a-96e5422c3f47</guid>
+    </files>
+</fileGuidTable>
