@@ -1,14 +1,16 @@
 module Base
 {
-		recipe Craft Hydration Backpack using Water Bottles
+	recipe Craft Hydration Backpack using Water Bottles
 	{
-			WaterBottleEmpty=2/WaterBottleFull=2,
-            MoreBackpacks.HuntingBackpack,
-            Thread=2/Twine=2,
-            keep Needle,
-			keep HuntingKnife/KitchenKnife,
+		WaterBottleEmpty=2/WaterBottleFull=2,
+        HuntingBackpack,
+        Thread=2/Twine=2,
+        keep Needle,
+		keep [Recipe.GetItemTypes.SharpKnife],
 		
-			Result:HydrationBackpack=1,
-			Time:900.0,
+		Result:HydrationBackpack=1,
+		Sound:ClothesRipping,
+		Time:660.0,
+		AnimNode:RipSheets,
 	}
 	
