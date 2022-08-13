@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <clothingItem>
-	<m_MaleModel>skinned\backpacks\m_schoolbag</m_MaleModel>     <!-- The 3d models with animations -->
-	<m_FemaleModel>skinned\backpacks\f_schoolbag</m_FemaleModel> <!-- The 3d models with animations -->
+	<m_MaleModel>skinned\bags\test_M_CompBag</m_MaleModel>     <!-- The 3d models with animations -->
+	<m_FemaleModel>skinned\bags\test_F_CompBag</m_FemaleModel> <!-- The 3d models with animations -->
 	<m_GUID>13c79c31-6ddf-4bbf-b88c-66d30ebe355f</m_GUID> <!-- A unique GUID for the clothingitem. See Step 3. -->
 	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>  <!-- No Tint  -->
 	<m_AttachBone></m_AttachBone>
-	<textureChoices>clothes\Bag\Bag_Schoolbag_Black</textureChoices>                        <!-- The texture that the model uses -->
+	<textureChoices>Bag_Schoolbag_Black</textureChoices>                        <!-- The texture that the model uses -->
 </clothingItem>
