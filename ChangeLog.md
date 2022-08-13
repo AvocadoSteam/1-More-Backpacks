@@ -1,4 +1,4 @@
-##[Changelog | 2022/8/12]
+##Changelog | 2022/8/12
 
 +Created ChangeLog
 
